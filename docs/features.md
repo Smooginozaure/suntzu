@@ -20,4 +20,4 @@ Player metrics will surely answer all these questions, letting you having the hi
 ## Yet to come
 
 Some nice ideas are still at draft stage and will arrive in a near future.  
-Stay tuned on [Suntzu](http://suntzu.gg) or [@Suntzu.gg](https://twitter.com/suntzugg) !
+Stay tuned on [Suntzu](https://suntzu.gg) or [@Suntzu.gg](https://twitter.com/suntzugg) !
